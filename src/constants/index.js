@@ -65,37 +65,23 @@ Agile(Scrum), Unit test development(TDD).`,
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "CXR-Scan (X-RAY IMAGE SCANNING APPLICATION FOR LUNG CANCER AND TUBERCULOSIS",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      'To improve the visualization spread area of the disease in X-ray imagesusing instance segmentation(Mask R-CNN) in machine learning, and the Interpretation of the disease speeded area of the lung X-ray image using Augmented reality.',
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
+    title: "Meal Planing Application (Inprogress)",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-  },
-  {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "An application for managing meals, with features such as task meal tracking, meal suggestions etc.",
+    technologies: ["React", "React Native", "Spring Boot","Python", "MongoDB"],
   },
 ];
 
 export const CONTACT = {
   address: "767 Fifth Avenue, New York, NY 10153 ",
   phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  email: "ushananuka5@gmail.com",
 };
